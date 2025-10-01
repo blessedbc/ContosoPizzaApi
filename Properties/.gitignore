@@ -1,0 +1,6 @@
+bin
+controllers
+obj
+properties
+appsettings.Development.json
+apppsettings.json
